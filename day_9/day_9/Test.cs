@@ -7,6 +7,8 @@ namespace day_9
     class Test
     {
         // public, private
+
+        public int skaitlis;
         public int Saskaitisana(int a, int b)
         {
             return a + b;
